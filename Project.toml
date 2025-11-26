@@ -2,3 +2,9 @@ name = "ExamplePkg"
 uuid = "401cf521-d1e8-4a00-9c37-0c77d9fca684"
 authors = ["Samata-Statistics <smd7237@psu.edu>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
